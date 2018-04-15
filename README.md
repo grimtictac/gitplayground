@@ -6,3 +6,4 @@ Harry was here
 
 Jake: adding some text
 
+Sam says hi
